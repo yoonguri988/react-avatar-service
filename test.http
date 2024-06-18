@@ -1,0 +1,9 @@
+#회원가입
+POST https://learn.codeit.kr/api/link-service/users
+Content-Type: application/json
+
+{
+  "name": "뉴우지",
+  "email": "newWoozi@example.com",
+  "password": "leejihun1122"
+}
